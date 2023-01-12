@@ -17,6 +17,6 @@ const Idris = {
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Tragidra&theme=dark&show_icons=true" width="350" align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tragidra&theme=highcontrast&hide_border=true" align="top" width="350" /></a>
 <a><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right"  width="200"></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tragidra&theme=highcontrast&hide_border=true" align="top" width="350" /></a>
 </div>
