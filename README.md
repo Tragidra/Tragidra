@@ -1,8 +1,5 @@
 ### Hi, I'm Idris
-([21](https://github.com/Tragidra/Tragidra/commit/03daa89a327744ea58a9bb8c81fbe1ea0c766230) y.o.) and I'm <p align="center">
-  <a href="https://github.com/Tragidra">
-    <img alt="Fullstack PHP and Vue programmer" /></a>
-</p>  
+([21](https://github.com/Tragidra/Tragidra/commit/03daa89a327744ea58a9bb8c81fbe1ea0c766230) y.o.) and I... 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tragidra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ```javascript
 const Idris = {
