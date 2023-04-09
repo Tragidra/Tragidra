@@ -7,12 +7,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tragidra&theme=solarized_dark)
 ```javascript
 const Idris = {
-  love: "Desktop Apps" | "name variables kk",
-  code: [PHP, Javascript, HTML, CSS, Python],
-  tools: [Vue, PyQt, Node, Steamlite, Django, PyTorch, Docker],
+  love: "Neural Apps" | "name variables kk",
+  code: [Python, Docker, Javascript, HTML, CSS, PHP],
+  tools: [Pandas, PyQt, Scikit-learn, Steamlite, Django, PyTorch, Docker, Vue],
   architecture: ["patterns", "microservices", "modular programming"],
   current_employment: {
-                        work: "EasyMo/EasyCode",
+                        work: "Tattelecom/Letai",
                         My project: "AI based web assistant",
                         mentor: "A platform for automating work using neural networks"
                       },
